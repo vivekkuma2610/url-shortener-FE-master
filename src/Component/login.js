@@ -167,7 +167,7 @@ export default function Login() {
           </div>
           <div className="demo">
             <p className="m-0">For Demo:</p>
-            <p className="m-0">Email: jayasuriya@gmail.com</p>
+            <p className="m-0">Email: vivekpanneer2610@gmail.com</p>
             <p className="m-0">password: user@123</p>
           </div>
         </Col>
