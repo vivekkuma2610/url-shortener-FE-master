@@ -110,8 +110,7 @@ export default function Login() {
       <Row className="mt-5 justify-content-around align-items-center">
         <Col className="login-content" md={4}>
           <h1>
-            THE IDEA IS TO MINIMIZE THE WEB PAGE ADDRESS INTO SOMETHING THAT'S
-            EASIER TO REMEMBER AND TRACK.
+            "our objective is to generate a url which is easy to remember and copy " - Vivek Kumar Panneer Selvam.
           </h1>
         </Col>
         <Col md={4}>
